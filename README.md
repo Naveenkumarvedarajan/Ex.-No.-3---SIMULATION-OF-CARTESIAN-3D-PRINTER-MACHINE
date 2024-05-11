@@ -59,9 +59,18 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![WhatsApp Image 2024-05-11 at 10 49 04_5724b7ca](https://github.com/Naveenkumarvedarajan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140428/fcdec740-e66d-409b-b4cd-4d378683e021)
 
-### Name: 
-### Register Number:
+![WhatsApp Image 2024-05-11 at 10 49 04_7697b78f](https://github.com/Naveenkumarvedarajan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140428/be2217b5-c9a2-4ff3-87d6-10d7e86b9996)
+
+![WhatsApp Image 2024-05-11 at 10 49 05_047c1e78](https://github.com/Naveenkumarvedarajan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140428/1d323ece-b7d7-4ed1-bab6-f4566f280ee3)
+
+![WhatsApp Image 2024-05-11 at 10 49 05_3f75195f](https://github.com/Naveenkumarvedarajan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140428/f46d1d8c-d6f6-4d3b-87d8-de6e2c72ff55)
+
+![WhatsApp Image 2024-05-11 at 10 49 06_64efdfa8](https://github.com/Naveenkumarvedarajan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147140428/d3905fbc-9587-4f15-a80b-b812342c88d4)
+
+### Name: NAVEEN KUMAR V
+### Register Number: 212223230140
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
